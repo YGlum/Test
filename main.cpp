@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+  int n=0;
   cout<<"Русс";
   system ("pause");
 }
